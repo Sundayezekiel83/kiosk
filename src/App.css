@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  /* color: rgb(237, 218, 199)  */
+}
+
+.login .right {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.slick-next,
+.slick-prev {
+  display: none !important;
+}
